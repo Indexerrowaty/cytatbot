@@ -1,0 +1,24 @@
+{
+  "name": "zbigniew-stonoga-bot",
+  "version": "2.0.0",
+  "description": "Bot stworzony przez Indexerrowatego na platformę Discord",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/zbigniewstonoga-bot"
+  },
+  "license": "Indexed License",
+  "keywords": [
+    "node",
+    "discord",
+    "express"
+  ]
+}
