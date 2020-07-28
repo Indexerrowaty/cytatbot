@@ -4,7 +4,7 @@
   "description": "Bot stworzony przez Indexerrowatego na platformę Discord",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node zbigniew.js"
   },
   "dependencies": {
     "discord.js": "^12.2.0"
