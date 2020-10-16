@@ -40,5 +40,6 @@ exports.cytaty = [
   "Kochani Rodacy, To nie jest sukces grubasa Stonogi! To jest Wasz sukces – sukces NIEZŁOMNYCH! A ja dziś świętuję święto prawdy. Kocham Was!",
   "Chociaż tyle mojego, że społeczeństwo sobie poogląda, jak wygląda żarcie obiadów po 2 tys. za obiadek na osobę plus winko za 5 tys.",
   "Stonoga nie jest niczyją tubą, nie stoją za nim służby specjalne.",
-  "Narodowi polskiemu zrobiłem przysługę…Jeżeli przez 25 lat mieliśmy do czynienia z wieloma aferami i jedyną osobą rozliczoną z punktu widzenia (…) przepisów Kodeksu karnego jest Lew Rywin – co do którego nie mam do końca pewności, czy aby na pewno był sprawcą tamtej afery – no to coś jest nie tak."
+  "Narodowi polskiemu zrobiłem przysługę…Jeżeli przez 25 lat mieliśmy do czynienia z wieloma aferami i jedyną osobą rozliczoną z punktu widzenia (…) przepisów Kodeksu karnego jest Lew Rywin – co do którego nie mam do końca pewności, czy aby na pewno był sprawcą tamtej afery – no to coś jest nie tak.",
+  "Ziobro kurwo jebana, przestań mi rodzinę prześladować!!!"
 ];
