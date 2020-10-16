@@ -12,7 +12,7 @@ import token from "./dane/config.js";
 import cytaty from "./dane/cytaty.js";
 
 zbysiu.on("message", e => {
-    if (!(e.author.bot || e.mentions.everyone) && e.mentions.has(sad.user)) {
+    if (!(e.author.bot || e.mentions.everyone) && e.mentions.has(zbysiu.user)) {
         e.channel.send(cytaty[Math.floor(Math.random() * cytaty.length)]);
     }
 });
