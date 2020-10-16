@@ -1,10 +1,10 @@
 {
   "name": "zbigniew-stonoga-bot",
   "version": "2.0.0",
-  "description": "Bot stworzony przez Indexerrowatego na platformę Discord",
+  "description": "Bot wysyłający cytaty Zbigniewa Stonogi",
   "main": "server.js",
   "scripts": {
-    "start": "node zbigniew.js"
+    "start": "node ."
   },
   "dependencies": {
     "discord.js": "^12.3.1"
