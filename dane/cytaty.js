@@ -41,5 +41,5 @@ exports.cytaty = [
   "Chociaż tyle mojego, że społeczeństwo sobie poogląda, jak wygląda żarcie obiadów po 2 tys. za obiadek na osobę plus winko za 5 tys.",
   "Stonoga nie jest niczyją tubą, nie stoją za nim służby specjalne.",
   "Narodowi polskiemu zrobiłem przysługę…Jeżeli przez 25 lat mieliśmy do czynienia z wieloma aferami i jedyną osobą rozliczoną z punktu widzenia (…) przepisów Kodeksu karnego jest Lew Rywin – co do którego nie mam do końca pewności, czy aby na pewno był sprawcą tamtej afery – no to coś jest nie tak.",
-  "Ziobro kurwo jebana, przestań mi rodzinę prześladować pedale pisowski w dupe jebany ty!"
+  "Ziobro kurwo jebana, przestań mi rodzinę prześladować pedale pisowski w dupę jebany ty!"
 ];
