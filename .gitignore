@@ -1,5 +1,5 @@
 # Ukrywa config aby twój token był bezpieczny :)
-/dane/config.json
+/dane/config.js
 
 # Ukrywa node_modules
 /node_modules
