@@ -7,10 +7,10 @@
     "start": "node zbigniew.js"
   },
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.3.1"
   },
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/zbigniewstonoga-bot"
