@@ -1,4 +1,4 @@
-exports.cytaty = [
+export default [
   "Dziękuję wszystkim, którzy posłuchali mojego apelu i zagłosowali na Andrzeja Dudę. Mój wkład w jego zwycięstwo to aż 2,04 proc.",
   "Będzie was PiS ruchał w dupę, będzie was PiS kurwa dymał tak, jak was Platforma nie dymała.",
   "Zarzucam prezydentowi Andrzejowi Dudzie to, że oszukał mnie przekazując za pośrednictwem Adama Kwiatkowskiego używającego numeru telefonu 603068781 prośbę o poparcie w wyborach prezydenckich dzwoniąc na mój numer dwukrotnie 535288000 i obiecując, że w przypadku wygranej w ciągu 5 dni rozpozna moją prośbę o ułaskawienie w trybie prezydenckim (nie mylić z obietnicą ułaskawienia).",
