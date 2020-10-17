@@ -13,7 +13,7 @@ const zbysiu = new Discord.Client({
 });
 
 zbysiu.on("message", e => {
-    if (e.cleanContent.trim() == `<@${client.user.id}>`) {
+    if (e.cleanContent.trim() == `<@${zbysiu.user.id}>`) {
         e.channel.send(cytaty[Math.floor(Math.random() * cytaty.length)]);
     }
 });
