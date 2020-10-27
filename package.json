@@ -1,8 +1,8 @@
 {
-  "name": "zbigniew-stonoga-bot",
-  "version": "2.0.0",
-  "description": "Bot wysyłający cytaty Zbigniewa Stonogi",
-  "main": "server.js",
+  "name": "cytatbot",
+  "version": "1.0.0",
+  "description": "Template bota na Discorda wysyłającego cytaty kiedy się go owzmiankuje.",
+  "main": "bot.js",
   "scripts": {
     "start": "node ."
   },
@@ -10,16 +10,17 @@
     "discord.js": "^12.3.1"
   },
   "engines": {
-    "node": "14.x"
+    "node": "15.x"
   },
   "repository": {
-    "url": "https://github.com/Indexerrowaty/zbigniew-stonoga-bot"
+    "url": "https://github.com/Indexerrowaty/cytatbot.git"
   },
-  "license": "Indexed License",
+  "license": "WTFPL",
   "keywords": [
-    "node",
-    "discord",
-    "express"
+    "nodejs",
+    "discord-js",
+    "javascript",
+    "discord-bot"
   ],
   "type": "module"
 }
