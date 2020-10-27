@@ -1,5 +1,8 @@
 # Ukrywa config aby twój token był bezpieczny :)
-/dane/config.js
+/dane/token.js
+
+# Ukrywa cytaty. Jeżeli chcesz aby się pojawiły w twoim repo to wywal poniższą linijkę.
+/dane/cytaty.js
 
 # Ukrywa node_modules
 /node_modules
