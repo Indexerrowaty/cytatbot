@@ -1,2 +1,2 @@
-# Zbigniew Stonoga Bot
-Bot na platformę Discord
+# CytatBot
+Template bota na Discorda wysyłającego cytaty kiedy się go owzmiankuje.
