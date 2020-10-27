@@ -5,8 +5,8 @@ import quotes from "./dane/quotes.js";
 const bot = new Discord.Client({
     presence: {
         activity: {
-            name: "jak PiS odbiera wam smak życia",
-            type: "WATCHING"
+            name: "niczego",
+            type: "LISTENING"
         },
         status: "dnd"
     }
