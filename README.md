@@ -6,19 +6,11 @@ Template bota na Discorda wysyłającego cytaty kiedy się go owzmiankuje.
 Przede wszystkim wpisz `npm i` aby zainstalować wszystkie potrzebne do odpalenia bota paczki. Potem przejdź do folderu `dane` i utwórz plik `token.js`.<br>
 Treść pliku `token.js` powinna wyglądać podobnie do pliku `token-example.js`. Czyli tak:
 ```js
-export default "tutaj wklej token bota";
+export default "tutaj wklej token bota"
 ```
 
-Możesz już odpalić swojego bota, ale zamiast cytatów jakie chcesz aby bot Ci wysłał pokaże się jedno z tych słów:
-```
-tutaj
-wrzuć
-swoje
-cytaty
-;)
-```
-
-Więc aby dodać swoje cytaty utwórz plik `quotes.js` w folderze `dane`.<br>
+### Jak dodać cytaty?
+Aby dodać cytaty utwórz plik `quotes.js` w folderze `dane`.<br>
 Treść pliku `quotes.js` powinna wyglądać podobnie do pliku `quotes-example.js`. Czyli tak:
 ```js
 export default [
@@ -28,7 +20,7 @@ export default [
   "cytat 4",
   "cytat 5",
   "cytat 6"
-];
+]
 ```
 **Uwaga!** Zwróć uwagę na to, że na końcu ostatniego cytatu nie wstawiamy przecinka. W przeciwnym razie bot wypluje nam do konsoli błąd o nieprawidłowej składni.
 
