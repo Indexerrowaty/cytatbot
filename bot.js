@@ -1,8 +1,8 @@
-import Discord from "discord.js";
+import { Client } from "discord.js";
 import token from "./dane/token.js";
 import quotes from "./dane/quotes.js";
 
-const bot = new Discord.Client({
+const bot = new Client({
     presence: {
         activity: {
             name: "niczego",
