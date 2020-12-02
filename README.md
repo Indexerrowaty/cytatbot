@@ -6,7 +6,7 @@ Template bota na Discorda wysyłającego cytaty kiedy się go owzmiankuje.
 Przede wszystkim wpisz `npm i` aby zainstalować wszystkie potrzebne do odpalenia bota paczki. Potem przejdź do folderu `dane` i utwórz plik `token.js`.<br>
 Treść pliku `token.js` powinna wyglądać podobnie do pliku `token-example.js`. Czyli tak:
 ```js
-export default "tutaj wklej swój token";
+export default "tutaj wklej token bota";
 ```
 
 Możesz już odpalić swojego bota, ale zamiast cytatów jakie chcesz aby bot Ci wysłał pokaże się jedno z tych słów:
